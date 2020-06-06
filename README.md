@@ -46,3 +46,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are some of the resources to learn Natural Language Processing?🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_datascience-deeplearning-machinelearning-activity-6673420891508084736-Mof1)
 - [What are some of the resources to learn Computer Vision? 👁️](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-deeplearning-datascience-activity-6673794119325888513-2hTF)
 - [What are some good resources to learn backend development in Python?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-python-backend-activity-6674515408017596416-qbR9)
+- [What are the best resources to learn backend in NodeJS?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-backend-nodejs-activity-6674872076324741120-KT5x)
