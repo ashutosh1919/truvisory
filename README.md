@@ -49,3 +49,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are the best resources to learn backend in NodeJS?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-backend-nodejs-activity-6674872076324741120-KT5x)
 - [What are the best resources to learn Devops?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-devops-aws-activity-6675243387395862528-2RJj)
 - [What are the best resources to learn Advanced Python?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-python-knwoledge-activity-6675949741563543553-nGuA)
+- [What are the resources to learn Reinforcement Learning?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6676383781752061952-SvCu)
