@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.669caca3.chunk.css",
-    "main.js": "./static/js/main.d2034829.chunk.js",
-    "main.js.map": "./static/js/main.d2034829.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2af099ff.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2af099ff.js.map",
-    "static/js/2.eba44123.chunk.js": "./static/js/2.eba44123.chunk.js",
-    "static/js/2.eba44123.chunk.js.map": "./static/js/2.eba44123.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.479f913d0ba4bea38381e21bbdb42fe9.js": "./precache-manifest.479f913d0ba4bea38381e21bbdb42fe9.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.669caca3.chunk.css.map": "./static/css/main.669caca3.chunk.css.map",
-    "static/js/2.eba44123.chunk.js.LICENSE.txt": "./static/js/2.eba44123.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg",
-    "static/media/website_background.jpg": "./static/media/website_background.3bafd080.jpg"
+    "main.css": "/Truvisory/static/css/main.9d3c71e4.chunk.css",
+    "main.js": "/Truvisory/static/js/main.f2fc99c2.chunk.js",
+    "main.js.map": "/Truvisory/static/js/main.f2fc99c2.chunk.js.map",
+    "runtime-main.js": "/Truvisory/static/js/runtime-main.27a8ab10.js",
+    "runtime-main.js.map": "/Truvisory/static/js/runtime-main.27a8ab10.js.map",
+    "static/js/2.8bf7a323.chunk.js": "/Truvisory/static/js/2.8bf7a323.chunk.js",
+    "static/js/2.8bf7a323.chunk.js.map": "/Truvisory/static/js/2.8bf7a323.chunk.js.map",
+    "index.html": "/Truvisory/index.html",
+    "precache-manifest.203a9661280d937d4e8432dd48702997.js": "/Truvisory/precache-manifest.203a9661280d937d4e8432dd48702997.js",
+    "service-worker.js": "/Truvisory/service-worker.js",
+    "static/css/main.9d3c71e4.chunk.css.map": "/Truvisory/static/css/main.9d3c71e4.chunk.css.map",
+    "static/js/2.8bf7a323.chunk.js.LICENSE.txt": "/Truvisory/static/js/2.8bf7a323.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Truvisory/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/all.css": "/Truvisory/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo.svg": "/Truvisory/static/media/logo.5d5d9eef.svg",
+    "static/media/website_background.jpg": "/Truvisory/static/media/website_background.3bafd080.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2af099ff.js",
-    "static/js/2.eba44123.chunk.js",
-    "static/css/main.669caca3.chunk.css",
-    "static/js/main.d2034829.chunk.js"
+    "static/js/runtime-main.27a8ab10.js",
+    "static/js/2.8bf7a323.chunk.js",
+    "static/css/main.9d3c71e4.chunk.css",
+    "static/js/main.f2fc99c2.chunk.js"
   ]
 }
