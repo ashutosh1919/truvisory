@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/ashutosh1919/Truvisory.svg)](http://hits.dwyl.com/ashutosh1919/Truvisory)    [![Objective](https://img.shields.io/badge/objective-sharing-important)](https://img.shields.io/badge/objective-sharing-important)    [![Outcome](https://img.shields.io/badge/outcome-interaction-blueviolet)](https://img.shields.io/badge/outcome-interaction-blueviolet)    [![SideEffects](https://img.shields.io/badge/sideeffect-inspiration-informational)](https://img.shields.io/badge/sideeffect-inspiration-informational)
 
-This is the initiative started by repository owner *[Ashutosh Hathidara](https://www.linkedin.com/in/ashutosh-hathidara-88710b138/)* on LinkedIn. This project contains LinkedIn posts related to learning resources for new Technology, Design, Self Branding, Motivation etc. You can visit website [here](https://ashutosh1919.github.io/truvisory).
+This is the initiative started by repository owner *[Ashutosh Hathidara](https://www.linkedin.com/in/ashutosh-hathidara-88710b138/)* on LinkedIn. This project contains LinkedIn posts related to learning resources for new Technology, Design, Self Branding, Motivation etc. You can visit website [here](https://ashutosh1919.github.io/truvisory). Website contains Light and Dark mode theme which you can toggle as per your requirement.
 
 ![Header Learning Image](images/truvisory_dark.PNG)
 
