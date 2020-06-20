@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Agustina Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Agustina Regular"),
+    url("./assets/fonts/Agustina.woff") format("woff");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"),
+    url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Bold";
+  src: local("Google Sans Bold"),
+    url("./assets/fonts/GoogleSans-Bold.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Bold Italic";
+  src: local("Google Sans Bold Italic"),
+    url("./assets/fonts/GoogleSans-BoldItalic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Italic";
+  src: local("Google Sans Italic"),
+    url("./assets/fonts/GoogleSans-Italic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Medium";
+  src: local("Google Sans Medium"),
+    url("./assets/fonts/GoogleSans-Medium.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Medium Italic";
+  src: local("Google Sans Medium Italic"),
+    url("./assets/fonts/GoogleSans-MediumItalic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Regular";
+  src: local("Google Sans Regular"),
+    url("./assets/fonts/GoogleSans-Regular.ttf") format("woff");
+}
+@font-face {
+  font-family: "Gilroy Light";
+  src: local("Gilroy Light"), url("./assets/fonts/Gilroy-Light.otf") format("woff");
+}
+@font-face {
+  font-family: "Gilroy Extra Bold";
+  src: local("Gilroy Extra Bold"), url("./assets/fonts/Gilroy-ExtraBold.otf") format("woff");
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
