@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Truvisory/static/css/main.9d3c71e4.chunk.css",
-    "main.js": "/Truvisory/static/js/main.f2fc99c2.chunk.js",
-    "main.js.map": "/Truvisory/static/js/main.f2fc99c2.chunk.js.map",
-    "runtime-main.js": "/Truvisory/static/js/runtime-main.27a8ab10.js",
-    "runtime-main.js.map": "/Truvisory/static/js/runtime-main.27a8ab10.js.map",
-    "static/js/2.8bf7a323.chunk.js": "/Truvisory/static/js/2.8bf7a323.chunk.js",
-    "static/js/2.8bf7a323.chunk.js.map": "/Truvisory/static/js/2.8bf7a323.chunk.js.map",
-    "index.html": "/Truvisory/index.html",
-    "precache-manifest.203a9661280d937d4e8432dd48702997.js": "/Truvisory/precache-manifest.203a9661280d937d4e8432dd48702997.js",
-    "service-worker.js": "/Truvisory/service-worker.js",
-    "static/css/main.9d3c71e4.chunk.css.map": "/Truvisory/static/css/main.9d3c71e4.chunk.css.map",
-    "static/js/2.8bf7a323.chunk.js.LICENSE.txt": "/Truvisory/static/js/2.8bf7a323.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Truvisory/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/all.css": "/Truvisory/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/logo.svg": "/Truvisory/static/media/logo.5d5d9eef.svg",
-    "static/media/website_background.jpg": "/Truvisory/static/media/website_background.3bafd080.jpg"
+    "main.css": "/truvisory/static/css/main.901c6f62.chunk.css",
+    "main.js": "/truvisory/static/js/main.b6a06f1f.chunk.js",
+    "main.js.map": "/truvisory/static/js/main.b6a06f1f.chunk.js.map",
+    "runtime-main.js": "/truvisory/static/js/runtime-main.3a598432.js",
+    "runtime-main.js.map": "/truvisory/static/js/runtime-main.3a598432.js.map",
+    "static/js/2.28e30e0d.chunk.js": "/truvisory/static/js/2.28e30e0d.chunk.js",
+    "static/js/2.28e30e0d.chunk.js.map": "/truvisory/static/js/2.28e30e0d.chunk.js.map",
+    "index.html": "/truvisory/index.html",
+    "precache-manifest.fffca996518d85580b7eeae81c0e60f6.js": "/truvisory/precache-manifest.fffca996518d85580b7eeae81c0e60f6.js",
+    "service-worker.js": "/truvisory/service-worker.js",
+    "static/css/main.901c6f62.chunk.css.map": "/truvisory/static/css/main.901c6f62.chunk.css.map",
+    "static/js/2.28e30e0d.chunk.js.LICENSE.txt": "/truvisory/static/js/2.28e30e0d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/truvisory/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/all.css": "/truvisory/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo.svg": "/truvisory/static/media/logo.5d5d9eef.svg",
+    "static/media/website_background.jpg": "/truvisory/static/media/website_background.3bafd080.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27a8ab10.js",
-    "static/js/2.8bf7a323.chunk.js",
-    "static/css/main.9d3c71e4.chunk.css",
-    "static/js/main.f2fc99c2.chunk.js"
+    "static/js/runtime-main.3a598432.js",
+    "static/js/2.28e30e0d.chunk.js",
+    "static/css/main.901c6f62.chunk.css",
+    "static/js/main.b6a06f1f.chunk.js"
   ]
 }
