@@ -18,10 +18,11 @@ export default class Logo extends Component {
     render(){
         const theme = this.props.theme==='light'?lightTheme: darkTheme;
         return (
+					<a href="/truvisory/#/">
 						<LogoSVG
 							// width="100"
 							// height="auto"
-							onClick={()=> history.push("/")}
+							// onClick={()=> history.push("/")}
 							viewBox="0 0 576 176"
 							preserveAspectRatio="xMidYMid meet"
 							fill="none"
@@ -52,6 +53,7 @@ export default class Logo extends Component {
 								stroke-width="8"
 							/>
 						</LogoSVG>
+					</a>
 				);
     }
 }

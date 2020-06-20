@@ -63,6 +63,7 @@ function GenresList(props){
 							<GenreItem>
 								<Fade bottom duration="3000" distance="20px">
 									{/* <NavLink to="/tech"> */}
+									<a href="/truvisory/#/tech" style={{ textDecoration: "none" }}>
 									<GenreButton
 										style={{
 											background: opp.body,
@@ -73,16 +74,18 @@ function GenresList(props){
 												color: theme.text,
 											},
 										}}
-										onClick={() => history.push("/tech")}
+										// onClick={() => history.replace("/truvisory/#/tech")}
 									>
 										Technology
 									</GenreButton>
+									</a>
 									{/* </NavLink> */}
 								</Fade>
 							</GenreItem>
 							<GenreItem>
 								<Fade bottom duration="3000" distance="20px">
 									{/* <NavLink to="/design"> */}
+									<a href="/truvisory/#/design" style={{ textDecoration: "none" }}>
 									<GenreButton
 										style={{
 											background: opp.body,
@@ -93,16 +96,18 @@ function GenresList(props){
 												color: theme.text,
 											},
 										}}
-										onClick={() => history.push("/design")}
+										// onClick={() => history.push("/design")}
 									>
 										Design
 									</GenreButton>
+									</a>
 									{/* </NavLink> */}
 								</Fade>
 							</GenreItem>
 							<GenreItem>
 								<Fade bottom duration="3000" distance="20px">
 									{/* <NavLink to="/motivation"> */}
+									<a href="/truvisory/#/motivation" style={{ textDecoration: "none" }}>
 									<GenreButton
 										style={{
 											background: opp.body,
@@ -113,16 +118,18 @@ function GenresList(props){
 												color: theme.text,
 											},
 										}}
-										onClick={() => history.push("/motivation")}
+										// onClick={() => history.push("/motivation")}
 									>
 										Motivation
 									</GenreButton>
+									</a>
 									{/* </NavLink> */}
 								</Fade>
 							</GenreItem>
 							<GenreItem>
 								<Fade bottom duration="3000" distance="20px">
 									{/* <NavLink to="/selfbranding"> */}
+									<a href="/truvisory/#/selfbranding" style={{ textDecoration: "none" }}>
 									<GenreButton
 										style={{
 											background: opp.body,
@@ -133,10 +140,11 @@ function GenresList(props){
 												color: theme.text,
 											},
 										}}
-										onClick={() => history.push("/selfbranding")}
+										// onClick={() => history.push("/selfbranding")}
 									>
 										Self Branding
 									</GenreButton>
+									</a>
 									{/* </NavLink> */}
 								</Fade>
 							</GenreItem>

@@ -1,8 +1,8 @@
 {
   "name": "truvisory",
-  "homepage":"https://ashutosh1919.github.io/truvisory/",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ashutosh1919.github.io/truvisory/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

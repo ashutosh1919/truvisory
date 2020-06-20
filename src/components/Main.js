@@ -6,7 +6,7 @@ import Footer from './Footer';
 import Home from './Home';
 import Posts from './Posts';
 import styled from 'styled-components';
-import {HashRouter, Switch, Route, Redirect, Router} from 'react-router-dom';
+import {HashRouter, Switch, Route, Redirect, Router, BrowserRouter} from 'react-router-dom';
 import history from './../history';
 
 export const MainDiv = styled.div`
@@ -26,29 +26,30 @@ export default class Main extends Component {
 					theme={this.props.theme}
 					onToggle={this.props.onToggle}
 									/> */}
-						<Router history={history}>
-							<Switch>
-								<Route
-									path="/"
-									exact
-									render={() => (
-										<Home
-											theme={this.props.theme}
-											onToggle={this.props.onToggle}
-										/>
-									)}
-								/>
-								<Route
-									path="/tech"
-									render={() => (
-										<Posts
-											theme={this.props.theme}
-											onToggle={this.props.onToggle}
-											from="tech"
-										/>
-									)}
-								/>
-								<Route
+						<HashRouter basename='/'>
+							{/* <Switch> */}
+							<Route
+								exact
+								path="/"
+								exact
+								render={() => (
+									<Home
+										theme={this.props.theme}
+										onToggle={this.props.onToggle}
+									/>
+								)}
+							/>
+							<Route
+								path="/tech"
+								render={() => (
+									<Posts
+										theme={this.props.theme}
+										onToggle={this.props.onToggle}
+										from="tech"
+									/>
+								)}
+							/>
+							<Route
 								path="/design"
 								render={() => (
 									<Posts
@@ -77,10 +78,10 @@ export default class Main extends Component {
 										from="selfbranding"
 									/>
 								)}
-							/>  
-								<Redirect to="/" />
-							</Switch>
-						</Router>
+							/>
+							<Redirect to="/" />
+							{/* </Switch> */}
+						</HashRouter>
 					</div>
 				);
     }

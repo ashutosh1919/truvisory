@@ -2,9 +2,15 @@
 
 [![HitCount](http://hits.dwyl.com/ashutosh1919/Truvisory.svg)](http://hits.dwyl.com/ashutosh1919/Truvisory)    [![Objective](https://img.shields.io/badge/objective-sharing-important)](https://img.shields.io/badge/objective-sharing-important)    [![Outcome](https://img.shields.io/badge/outcome-interaction-blueviolet)](https://img.shields.io/badge/outcome-interaction-blueviolet)    [![SideEffects](https://img.shields.io/badge/sideeffect-inspiration-informational)](https://img.shields.io/badge/sideeffect-inspiration-informational)
 
-This is the initiative started by repository owner *[Ashutosh Hathidara](https://www.linkedin.com/in/ashutosh-hathidara-88710b138/)* on LinkedIn. He daily posts about new trending technologies. His posts are information rich and you will get resources to learn any technology.  
+This is the initiative started by repository owner *[Ashutosh Hathidara](https://www.linkedin.com/in/ashutosh-hathidara-88710b138/)* on LinkedIn. This project contains LinkedIn posts related to learning resources for new Technology, Design, Self Branding, Motivation etc. You can visit website [here](https://ashutosh1919.github.io/truvisory).
 
-![Header Learning Image](images/header_learning_image.jpg)  
+![Header Learning Image](images/truvisory_dark.PNG)
+
+# Contributing
+- This project is meant for people who seek resources for development.
+- One can also contribute to this project. Please follow the guidelines given [here](/Contributing.md)
+
+### If you directly want to access the posts via link, then links to all posts are given below.
 
 # Links to my LinkedIn Posts  
 - [How much impact competitive coding has on career of a college student?
@@ -51,3 +57,5 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are the best resources to learn Advanced Python?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-python-knwoledge-activity-6675949741563543553-nGuA)
 - [What are the resources to learn Reinforcement Learning?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6676383781752061952-SvCu)
 - [Do you want to start working on Docker for your Machine Learning and Data Science projects?👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-docker-activity-6676810476376113153-tteu)
+- [Do you want me to create YouTube video for the Splash screen animation like shown below?📹](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-knowledge-design-activity-6678484082852265985-kjnq)
+- [Pro-tips on maintaining healthy 💪 mentality.](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-knowledge-motivation-activity-6679392876478177280-6QJx)
