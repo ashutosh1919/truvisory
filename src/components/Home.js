@@ -7,25 +7,22 @@ import styled from "styled-components";
 // import { HashRouter, Switch, Route } from "react-router-dom";
 
 export const MainDiv = styled.div`
-	width: 100%;
-	align-items: center;
-	justify-content: center;
-	display: flex;
-	flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
 `;
 
-export default class Home extends Component{
-    render(){
-        return (
-					<MainDiv>
-						<Header theme={this.props.theme} onToggle={this.props.onToggle} />
-						<Landing theme={this.props.theme} />
-						<GenresList
-							theme={this.props.theme}
-							onToggle={this.props.onToggle}
-						/>
-						<Footer theme={this.props.theme} />
-					</MainDiv>
-				);
-    }
+export default class Home extends Component {
+  render() {
+    return (
+      <MainDiv>
+        <Header theme={this.props.theme} onToggle={this.props.onToggle} />
+        <Landing theme={this.props.theme} />
+        <GenresList theme={this.props.theme} onToggle={this.props.onToggle} />
+        <Footer theme={this.props.theme} />
+      </MainDiv>
+    );
+  }
 }
