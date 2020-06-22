@@ -13,6 +13,15 @@ export default class TechList extends Component {
 						}}
 					>
 						<div className="iframe-container">
+							<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6680669182666780672" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+						</div>
+						<div className="iframe-container">
+							<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6680474283547885568" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+						</div>
+						<div className="iframe-container">
+							<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6680379547235426304" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+						</div>
+						<div className="iframe-container">
 							<iframe
 								src="https://www.linkedin.com/embed/feed/update/urn:li:share:6676810475562418176"
 								frameborder="0"

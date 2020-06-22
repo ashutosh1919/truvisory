@@ -60,3 +60,6 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [Do you want me to create YouTube video for the Splash screen animation like shown below?📹](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-knowledge-design-activity-6678484082852265985-kjnq)
 - [Pro-tips on maintaining healthy 💪 mentality.](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-knowledge-motivation-activity-6679392876478177280-6QJx)
 - [Project Truvisory is now available as website and that too in both light and dark mode. 😍](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_project-truvisory-httpslnkdindi4nirg-activity-6680064347743522816-U_yq)
+- [Presenting ChatBot 🤖 which can do Data Analysis and transformation for Machine Learning models built using Rasa. 😍](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-chatbot-activity-6680379953667682304--Qal)
+- [Some of the amazing new additions in Bootstrap 5.😋](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_bootstrap-5-whats-new-about-it-and-release-activity-6680474284290281472-w8eE)
+- [What are the best resources to learn to make Chatbots? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-chabot-machinelearning-activity-6680669183530827776-lwwF)
