@@ -65,3 +65,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are the best resources to learn to make Chatbots? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-chabot-machinelearning-activity-6680669183530827776-lwwF)
 - [What are the resources to learn building Recommendation Engine? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6681042346378838016-l5TQ)
 - [What are the best resources to learn Google Anthos? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-cloud-anthos-activity-6681399608175812608-YoXg)
+- [Some of the amazing npm packages for React JS for better designing and animations. 🍥](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-design-animation-activity-6681757093172658176-oQp4)

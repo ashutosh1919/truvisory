@@ -13,6 +13,9 @@ export default class DesignList extends Component {
 				}}
 			>
 				<div className="iframe-container">
+					<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6681757092468011009" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+				</div>
+				<div className="iframe-container">
 					<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6680064346703306752" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 				</div>
 				<div className="iframe-container">
