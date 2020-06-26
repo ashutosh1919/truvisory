@@ -13,6 +13,9 @@ export default class TechList extends Component {
 						}}
 					>
 						<div className="iframe-container">
+							<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6682231680901636096" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+						</div>
+						<div className="iframe-container">
 							<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6681399607408246784" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 						</div>
 						<div className="iframe-container">
