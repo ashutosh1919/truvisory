@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69f204d0bc7197d2deef18ef4bee9e2d",
+    "revision": "91d175fce8df82d8f7e60bd6d7e89343",
     "url": "/truvisory/index.html"
   },
   {
-    "revision": "50e30b60603e0a0f4447",
+    "revision": "209b7e332de575df86bb",
     "url": "/truvisory/static/css/main.901c6f62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/truvisory/static/js/2.c6d3a032.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50e30b60603e0a0f4447",
-    "url": "/truvisory/static/js/main.c9e27199.chunk.js"
+    "revision": "209b7e332de575df86bb",
+    "url": "/truvisory/static/js/main.d140301d.chunk.js"
   },
   {
     "revision": "5920dbbffb0f79cfd538",
