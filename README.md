@@ -67,3 +67,5 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are the best resources to learn Google Anthos? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-cloud-anthos-activity-6681399608175812608-YoXg)
 - [Some of the amazing npm packages for React JS for better designing and animations. 🍥](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-design-animation-activity-6681757093172658176-oQp4)
 - [What are some of the best resources to learn Game Development? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-gamedevelopment-games-activity-6682231681690157056-gT13)
+- [Learn Introduction to Git and Opensource.](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_demystifying-it-with-seniors-webinar-activity-6682510098771800064-0M1t)
+- [What are some of the resources to learn Time Series Analysis and Forecasting? 📈](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6682852185367179264-l_gT)
