@@ -69,3 +69,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are some of the best resources to learn Game Development? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-gamedevelopment-games-activity-6682231681690157056-gT13)
 - [Learn Introduction to Git and Opensource.](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_demystifying-it-with-seniors-webinar-activity-6682510098771800064-0M1t)
 - [What are some of the resources to learn Time Series Analysis and Forecasting? 📈](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6682852185367179264-l_gT)
+- [What are some of the resources to learn Cyber Security? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_cybersecurity-mlfyworld-hacking-activity-6683202007962013696-JRVZ)
