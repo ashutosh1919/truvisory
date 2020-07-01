@@ -70,3 +70,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [Learn Introduction to Git and Opensource.](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_demystifying-it-with-seniors-webinar-activity-6682510098771800064-0M1t)
 - [What are some of the resources to learn Time Series Analysis and Forecasting? 📈](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6682852185367179264-l_gT)
 - [What are some of the resources to learn Cyber Security? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_cybersecurity-mlfyworld-hacking-activity-6683202007962013696-JRVZ)
+- [What are some of the resources to learn R? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-r-activity-6683564750045085696-y9WY)
