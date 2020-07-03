@@ -13,6 +13,9 @@ export default class SelfBrandingList extends Component {
 				}}
 			>
 				<div className="iframe-container">
+					<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6684653939964551168" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+				</div>
+				<div className="iframe-container">
 					<iframe
 						src="https://www.linkedin.com/embed/feed/update/urn:li:share:6667420488475774976"
 						frameborder="0"

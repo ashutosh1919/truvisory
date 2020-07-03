@@ -71,3 +71,5 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are some of the resources to learn Time Series Analysis and Forecasting? 📈](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-machinelearning-activity-6682852185367179264-l_gT)
 - [What are some of the resources to learn Cyber Security? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_cybersecurity-mlfyworld-hacking-activity-6683202007962013696-JRVZ)
 - [What are some of the resources to learn R? 🤖](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-datascience-r-activity-6683564750045085696-y9WY)
+- [What are some resources to learn Database Management Systems? 💾](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-database-dbms-activity-6684652597049102337-M6OV)
+- [My Quora answers have crossed 100,000 views today. 😊](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-selfbranding-growthhacker-activity-6684653940761485312-86Qy)
