@@ -75,3 +75,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [My Quora answers have crossed 100,000 views today. 😊](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-selfbranding-growthhacker-activity-6684653940761485312-86Qy)
 - [4 Golden Rules to push your work efficiency and lifestyle. 🥇](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-motivation-inspiration-activity-6685395886412984320-2UBT)
 - [What are the best resources to learn Digital marketing? 📈](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-marketing-growthhacker-activity-6686113764091150336-g_wc)
+- [What are some resources to learn Spring Boot? 🍥](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-java-spring-activity-6686466652399251456-RH-z)
