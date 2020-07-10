@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/truvisory/static/css/main.901c6f62.chunk.css",
-    "main.js": "/truvisory/static/js/main.57b43e08.chunk.js",
-    "main.js.map": "/truvisory/static/js/main.57b43e08.chunk.js.map",
+    "main.js": "/truvisory/static/js/main.27825a3d.chunk.js",
+    "main.js.map": "/truvisory/static/js/main.27825a3d.chunk.js.map",
     "runtime-main.js": "/truvisory/static/js/runtime-main.3a598432.js",
     "runtime-main.js.map": "/truvisory/static/js/runtime-main.3a598432.js.map",
     "static/js/2.c6d3a032.chunk.js": "/truvisory/static/js/2.c6d3a032.chunk.js",
     "static/js/2.c6d3a032.chunk.js.map": "/truvisory/static/js/2.c6d3a032.chunk.js.map",
     "index.html": "/truvisory/index.html",
-    "precache-manifest.1416f3915fb141a69204d56d404bf598.js": "/truvisory/precache-manifest.1416f3915fb141a69204d56d404bf598.js",
+    "precache-manifest.5706e524a8d5ef288132b5e0b5b4e2e5.js": "/truvisory/precache-manifest.5706e524a8d5ef288132b5e0b5b4e2e5.js",
     "service-worker.js": "/truvisory/service-worker.js",
     "static/css/main.901c6f62.chunk.css.map": "/truvisory/static/css/main.901c6f62.chunk.css.map",
     "static/js/2.c6d3a032.chunk.js.LICENSE.txt": "/truvisory/static/js/2.c6d3a032.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3a598432.js",
     "static/js/2.c6d3a032.chunk.js",
     "static/css/main.901c6f62.chunk.css",
-    "static/js/main.57b43e08.chunk.js"
+    "static/js/main.27825a3d.chunk.js"
   ]
 }
