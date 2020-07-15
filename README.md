@@ -79,3 +79,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [What are the resources to learn Hadoop?](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-hadoop-hdfs-activity-6686833036878721024-GlYv)
 - [What are the top resources to learn MongoDB? 🗄️](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-mongodb-database-activity-6687195103078965248-VvU7)
 - [100% customizable MasterPortfolio 2.0 is out now. 🤩](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-portfolio-website-activity-6687967602456702976-at24)
+- [What are the resources to learn System Design? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-design-systems-activity-6688998601139466240-31sd)
