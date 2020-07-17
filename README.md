@@ -81,3 +81,4 @@ This is the initiative started by repository owner *[Ashutosh Hathidara](https:/
 - [100% customizable MasterPortfolio 2.0 is out now. 🤩](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-portfolio-website-activity-6687967602456702976-at24)
 - [What are the resources to learn System Design? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-design-systems-activity-6688998601139466240-31sd)
 - [What are the resources to learn Ethical Hacking? 👨‍💻](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-hacking-security-activity-6689371789685997568-xLg9)
+- [What are the video editing softwares? 📹](https://www.linkedin.com/posts/ashutosh-hathidara-88710b138_mlfyworld-edit-youtube-activity-6689736257226076160-Qyrz)
